@@ -1,0 +1,26 @@
+Codename: termux
+Version: 1
+Architectures: aarch64
+Description: android repository
+Suite: android
+Date: Sat, 19 Mar 2022 00:33:28 UTC
+MD5Sum:
+ 3f6371a776d633d8daccfa5a3020a6c5 4136 main/binary-aarch64/Packages
+ 9443652f6eaeeb446ac4cc4d0773ee83 1876 main/binary-aarch64/Packages.xz
+ 9a8265c4280fbe2e533ed351f6eeb9fb 42363 main/Contents-aarch64
+ a6c829470e3b9923a1d7356d763fdd9b 3284 main/Contents-aarch64.xz
+SHA1:
+ 55dacb008004f33335487d2fe34e2596b8377517 4136 main/binary-aarch64/Packages
+ a7d9838be8ecd44174a0a5671d9eb6e58a0f3969 1876 main/binary-aarch64/Packages.xz
+ 8cca5c024f7453a1b484dc1c2e7c86eed315e996 42363 main/Contents-aarch64
+ 917cd0b6775246c9b8481aeac933029c0e1eade0 3284 main/Contents-aarch64.xz
+SHA256:
+ 29f0f2f891aa4abe51c07046d47f5c8c86442797b641536dc2a6c8597f7e1827 4136 main/binary-aarch64/Packages
+ c3684079516013648ac133b2b939073eb01627a1e0af9f82741758bca307d7df 1876 main/binary-aarch64/Packages.xz
+ ec68c707e8e27c1292a03e04dc69ce0b28db3e6e380fbf2d08b6a4b374b7ac02 42363 main/Contents-aarch64
+ 0419cbd26d0ae8d88bcadf6e4baab94436e1e6ea2a71be02ce0080b89cf3e347 3284 main/Contents-aarch64.xz
+SHA512:
+ f3444176f9d488d30b2230a891f4c903a5279a21d71e1f47f83466fe1e4d9fb2c4cdc3c725ffc525903edd4cc8619eafa9851a71a5906a8443d9ea815223b0f4 4136 main/binary-aarch64/Packages
+ 1fff0d2a0f2f2531b7ee9eeca04b8f4947d9737a1fdae38e8b844346a90b1f0554ed1ffa2549cd174595087d28f7b79291cef9026d395568133d4431f7f57315 1876 main/binary-aarch64/Packages.xz
+ 57d1fa70dc3316e131f966bb5cee102a13fdf35ba30c6c5ac0ccb434dec55895b3aeb99d1cce6b122009d6d71ce5e6276e56ce80007a394222c62fe1cc3319b7 42363 main/Contents-aarch64
+ 6843f8b637b1e1a646cfcfdc5f891d9255e52ed4cfbe4298a5a0daa1270e97bfed0ec9109c3793d569d206cf302580654ad9c3eceb07c100f299d9b8bcbf542f 3284 main/Contents-aarch64.xz

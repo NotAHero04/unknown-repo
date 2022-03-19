@@ -1,0 +1,84 @@
+Package: ffmpeg
+Version: 5.0+build.20220318
+Architecture: aarch64
+Installed-Size: 262980
+Maintainer: Nguyen Phi Hung <notahero2004@gmail.com>
+Description: FFmpeg is a collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata
+Homepage: https://github.com/FFmpeg/FFmpeg
+Filename: dists/android/main/binary-aarch64/ffmpeg_5.0+build.20220318_aarch64.deb
+Size: 38102660
+MD5Sum: 9e0f1bbd7f12a773364be8d0bdd9f206
+SHA1: 1a0a937306d06b669cd0443f946fa13253b237e4
+SHA256: 1659758e03f42acc3e8bc456aa8e6ed79ad65db845f65c5ea4cdb60b76a78db1
+SHA512: 1f7bf2f0bc68db4ebadbf535ef6a611feb65588ccb1837b88e806647b380a7f8bc97d053f4b482849a5e19914970d2789d2f31e76f21a17a853fb7c4073c00fb
+
+Package: glslang
+Version: 11.8.0+build.20220301
+Architecture: aarch64
+Installed-Size: 91744
+Maintainer: Nguyen Phi Hung <notahero2004@gmail.com>
+Description: Khronos-reference front end for GLSL/ESSL, partial front end for HLSL, and a SPIR-V generator
+Homepage: https://github.com/KhronosGroup/glslang
+Filename: dists/android/main/binary-aarch64/glslang_11.8.0+build.20220301_aarch64.deb
+Size: 11201800
+MD5Sum: e12618cec985ca0213e6f1bf5dab3d41
+SHA1: 8d3855c5459990c45a7cc2cd34542d2201700c6b
+SHA256: d991432e54e2c797468397e889abd1f5663a133a877b6fb17bc13e0fbc604414
+SHA512: 40cb16610cb8bf7eb04163756285122c85427325ad2ec2a26141d638d026d59788607de10dd76622ccb0f0a4527399ef13b7671ae7fd8f1bf9b9e9a5e7731cae
+
+Package: libisl
+Version: 0.24+build.20220305
+Architecture: aarch64
+Installed-Size: 7596
+Maintainer: Nguyen Phi Hung <notahero2004@gmail.com>
+Description: isl is a library for manipulating sets and relations of integer points bounded by linear constraints
+Homepage: https://repo.or.cz/w/isl.git
+Filename: dists/android/main/binary-aarch64/libisl_0.24+build.20220305_aarch64.deb
+Size: 982620
+MD5Sum: d2bd42c0bc62fe141595eb24332859a3
+SHA1: f964334e93f96999557ded661a028799f83816bd
+SHA256: b044db2bb835161ee6d2829ce2733c9a9a49f0afa3696b9feb3778e4d660029d
+SHA512: e2d9464418f368e0a85874622e42a314908fd47b4b90dd0c94be2a1c5e8957b96d8dafcef27497990fdc704a7682a1b5683b6d47fe6ce51cd01441f69dc47f4b
+
+Package: libucl
+Version: 1.03
+Architecture: aarch64
+Installed-Size: 452
+Maintainer: Nguyen Phi Hung <notahero2004@gmail.com>
+Description: UCL is a portable lossless data compression library written in ANSI C
+Homepage: https://github.com/Distrotech/ucl
+Filename: dists/android/main/binary-aarch64/libucl_1.03_aarch64.deb
+Size: 53952
+MD5Sum: 58e29f345777d1c4d772c13d18fb493c
+SHA1: 4f9b0eee536cacb72779370e8d3bf544f7f855e5
+SHA256: 611a65754caf3266f607367eedda9bb8ca8fa92f87f1d43d5dc99d35d277389e
+SHA512: 5b71c0ddf1bdc5da5f6d68a8ff3d98b7c8ae5127e84629c91c308575960d98b177dce82caceeec0774cef7cd7d111a84a163f8520b44e3e00f93d2388a36acaa
+
+Package: spirv-cross
+Version: 2022.3.12
+Architecture: aarch64
+Installed-Size: 92044
+Maintainer: Nguyen Phi Hung <notahero2004@gmail.com>
+Description: SPIRV-Cross is a tool designed for parsing and converting SPIR-V to other shader languages
+Homepage: https://github.com/KhronosGroup/SPIRV-Cross
+Filename: dists/android/main/binary-aarch64/spirv-cross_2022.3.12_aarch64.deb
+Size: 9670932
+MD5Sum: f41f106f221b2899976e4f54520ffc50
+SHA1: 9c222aed9d01dbe42c2cd5b1abbcda178a4a0316
+SHA256: b8ea6dd4f8ad4f900992346c1840cef4648402a08f64c1840390b6a6ea1b6dd6
+SHA512: 8e3b153bd1903e0024e6093167dabaf7c160d2ac0ca771ad4b4e11df716819f01db459bb64066e9f42ac63b80ef50a6f330ff5c23e40a3c7fb1da39f329ec32b
+
+Package: spirv-tools
+Version: 2022.1+build.20220314
+Architecture: aarch64
+Installed-Size: 563356
+Maintainer: Nguyen Phi Hung <notahero2004@gmail.com>
+Description: The SPIR-V Tools project provides an API and commands for processing SPIR-V modules
+Homepage: https://github.com/KhronosGroup/SPIRV-Tools
+Filename: dists/android/main/binary-aarch64/spirv-tools_2022.1+build.20220313_aarch64.deb
+Size: 67364380
+MD5Sum: 82688b28d6031fe873bb86856018230a
+SHA1: 6c9b6cfef8e21e1a28376e34ad04db8a500f88bd
+SHA256: 4c42aba228715710684560b48defabca979f00093c16b6edece5188e2a815039
+SHA512: 45d8518e7a0601486e8536e6b54bf286fdcfa8e45e144af3a8a9ed28750857a03175de4889f056cd9f4022fdd3825d485e69e2eaee7c577e9ed82c26748f4705
+
